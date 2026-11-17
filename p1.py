@@ -2,8 +2,8 @@ def func(a,b):
     return a+b
 print(func(12,4))
 
-b="harsha"
-print(f"done by {b}")
+name="harsha"
+print(name)
 
 
 def func1(a,b):
