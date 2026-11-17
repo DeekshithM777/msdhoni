@@ -2,7 +2,7 @@ def func(a,b):
     return a+b
 print(func(12,4))
 
-b="darshan"
+b="harsha"
 print(f"done by {b}")
 
 
